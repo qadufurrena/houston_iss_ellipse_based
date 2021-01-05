@@ -23,6 +23,7 @@ api = tp.API(auth)
 #radius of visibility = 2316.4km = 20.949deg [lat] = 20.808*cos(lat)deg [lon]
 #center_lon = -95.093186
 #center_lat = 29.552839
+#random change
 
 while True:
     url = 'http://api.open-notify.org/iss-now.json'
