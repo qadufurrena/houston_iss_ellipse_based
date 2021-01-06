@@ -1,1 +1,1 @@
-worker: houston_iss_ellipse.py
+worker: python houston_iss_ellipse.py
